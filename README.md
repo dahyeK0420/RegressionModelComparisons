@@ -1,8 +1,9 @@
 # Predicting Electric Rotor Temperature 
-**Author**: Dahye Kim 
-**Last Edited**: 23 Apr 2021 
-**Programming Language**: R 
-**Libaries Used**: `readr`, `ggplot2`, `reshape2`, `caret`, `glmnet`, `randomForest`, `tidyverse`, `plotmo`, `glmnetUtils`
+**Author**: Dahye Kim  
+**Last Edited**: 23 Apr 2021  
+**Programming Language**: R  
+**Libaries Used**: `readr`, `ggplot2`, `reshape2`, `caret`, `glmnet`,  
+`randomForest`, `tidyverse`, `plotmo`, `glmnetUtils`  
 
 ## Introduction
 
